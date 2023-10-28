@@ -1,4 +1,4 @@
-# Analysis of House Sales Data in King County, WA
+# Real Estate stakeholder engagement data analysis, a case study of King County, WA
 
 This repository contains the code and resources used to build a Housing Price Prediction model for properties in King County. The model predicts the price of houses based on various features such as number of bedrooms, bathrooms, living area square footage, lot area square footage, condition, grade, and more.
 
