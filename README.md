@@ -87,11 +87,18 @@ In summary, our predictive model explains roughly 72% of the fluctuation observe
 
 ## Recommendations
 
-Proposed recommendations or actions based on the conclusions drawn from the analysis. This section outlines suggested steps or strategies derived from the findings.
+1. Considering our analysis multi storey buildings tend to influence the prices positively by 9.56%. When one wants to sell a house with multiple storeys this can be a good increasing factor to consider.
+2. Since bedrooms affect prices negatively, one can try and advertise the extra bedrooms as extra office space or guest room so as to draw better pricing rather than just highlight it as a bedroom.
+3. Bathrooms can be added as a selling point since it affects price positively. This can be advertised as a convenience and luxury for a potential buyer.
+4. Since sqft living positively affects price but not quite significantly one can advertise by putting emphasis on the houses layout,design and functionality of the living space.
+5. Most sales should be done within April to July which coincide with warmer weather conditions and also tax refunds tend to be refunded on May 1 for the first half of the year where majority of people tend to use the refund cheques as a source for downpayment for the houses. For more information https://www.americanfinancing.net/lifestyle/ways-to-use-tax-refund-for-homeownership .
+6. When investing towards housing in KC the best product mix would be a blend of 4.0 bedrooms and 2.5 bathrooms. This is due to the fact that it is most popular mix from our analysis. The perfect time would be to sell this blend in June.
+7. Demand is heavily present for houses that range from 300-400k. This is the budget most people in KC county have when looking for houses.
+8. The best time to buy a house would be between November to February. Due to it being a cold season there is a reduction in demand for the houses in KC. This coincides with a decrease in price for the houses in this period.
 
 ## Next Steps
 
-Future steps or considerations for further analysis or improvements. This section suggests potential future actions to continue exploring the dataset or improving the analysis.
+More data collection on demographies like age, family size, income and gender would be good to build up on our models and give better insights towards home ownership in KC.
 
 ## Contributors
 
