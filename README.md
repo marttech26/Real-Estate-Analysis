@@ -15,6 +15,7 @@ King County plays a significant role in the economic and cultural life of the Pa
 
 
 ## Problem Statement
+
 The most common reasons for selling houses in KC are recouping investments and job relocation.For people relocating to other states one needs to dispose the houses quickly but still getting to know what factors affect pricing within KC. Some even have a problem where they are not aware when are the best periods to sell the houses and some dont understand the budget their potential buyers might have. Some end up taking a long time to sell their houses due to the fact of not getting the price and timing right.
 
 ## Business Understanding
@@ -30,13 +31,13 @@ The dataset provides detailed attributes related to houses in King County. The '
 The study aims to identify the factors influencing house prices in King County. Specific objectives include determining the optimal months for selling and buying houses for profitability, analyzing construction periods, identifying prevalent house types, and understanding the common budget range for buyers.
 
 ## Libraries Used
-Python 
-Matplotlib 
-Scikit-learn
-Seaborn
-Pandas
-Numpy 
-Statsmodels 
+Python <br>
+Matplotlib <br>
+Scikit-learn <br>
+Seaborn<br>
+Pandas<br>
+Numpy <br>
+Statsmodels <br>
 
 
 ### Data Serialization
@@ -64,13 +65,13 @@ Data preprocessing was performed to ensure the data was ready for regression. Th
 
 The analysis comprises several regression models:
 
-1. **Baseline Model**: Initial regression model to establish a starting point for the analysis.
+1. **Baseline Model**: Initial regression model to establish a starting point for the analysis. <br>
 The presented regression model aims to predict housing prices (price) in King County based one independent variable: sqft_living. The model's overall performance is evaluated using the R-squared value, which indicates that approximately 50% of the variance in housing prices can be explained by these predictors. The F-statistic, with a high value of 15680 and a corresponding p-value of 0.00, suggests that the overall model is statistically significant, indicating the independent variable is related to the housing prices.
    
-2. **Multiple Regression Model 1**: Enhanced regression model integrating additional features and refinements.
+2. **Multiple Regression Model 1**: Enhanced regression model integrating additional features and refinements.<br>
 The presented regression model aims to predict housing prices (price) in King County based on several independent variables: bedrooms, bathrooms, sqft_living, sqft_lot and floors. The model's overall performance is evaluated using the R-squared value, which indicates that approximately 48% of the variance in housing prices can be explained by these predictors. The F-statistic, with a high value of 2908 and a corresponding p-value of 0.00, suggests that the overall model is statistically significant, indicating that at least one of the independent variables is related to the housing prices.
    
-3. **Multiple Regression Model 2**: Further improved regression model with additional adjustments and interpretations.
+3. **Multiple Regression Model 2**: Further improved regression model with additional adjustments and interpretations.<br>
 From our data we have found out that factors that significantly affect pricing includes location, year built, bedrooms, bathrooms, sqft living, sqft lot and floors. Our prediction model however is 72% accurate when predicting price.
 
 ## Interpreting Coefficients
