@@ -80,7 +80,7 @@ In each regression model, coefficients are interpreted to understand the impact 
 
 ## Conclusions
 
-Summary of key insights, trends, and significant findings derived from the regression analysis. This section provides a comprehensive conclusion drawn from the analysis.
+In summary, our predictive model explains roughly 72% of the fluctuation observed in house prices, indicating a robust predictive capability. Key determinants, such as square footage, location, view, and waterfront presence, significantly influence property valuations. However, it's crucial to acknowledge that real estate is affected by numerous dynamic variables, making achieving 100% accuracy in predicting house prices quite challenging. Despite this, the performance of our model is promising and offers assistance in estimating property values within King County, serving as a dependable method for both buyers and sellers. While reliable, it's advisable to complement the model with additional information for more accurate pricing decisions.
 
 ## Recommendations
 
