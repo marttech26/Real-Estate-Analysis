@@ -100,9 +100,9 @@ More data collection on demographies like age, family size, income and gender wo
 
 ## Contributors
 
-- [Mwangi Wambugu](https://github.com/MwangiWambugu)
-- [Brian Orwa](https://github.com/brianorwa)
-- [Julius Kagety](https://github.com/jkagety)
-- [Dennis Kimani](https://github.com/dennismathu)
-- [Amina Hagi](https://github.com/aminahagi)
-- [Emmanuel Rono](https://github.com/marttech26)
+- [Mwangi Wambugu](https://github.com/MwangiWambugu) - Project Manager
+- [Brian Orwa](https://github.com/brianorwa) - Data Scientist
+- [Julius Kagety](https://github.com/jkagety) - Data Scientist
+- [Dennis Kimani](https://github.com/dennismathu) - Data Scientist
+- [Amina Hagi](https://github.com/aminahagi) - Data Analyst
+- [Emmanuel Rono](https://github.com/marttech26) -Machine Learning Engineer
