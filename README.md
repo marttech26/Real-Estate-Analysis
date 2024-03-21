@@ -32,13 +32,13 @@ The dataset provides detailed attributes related to houses in King County, inclu
 The study aims to identify factors influencing house prices in King County, including optimal selling periods, prevalent house types, and buyer budgets.
 
 ## Libraries Used
-Python <br>
-Matplotlib <br>
-Scikit-learn <br>
-Seaborn<br>
-Pandas<br>
-Numpy <br>
-Statsmodels <br>
+- Python <br>
+- Matplotlib <br>
+- Scikit-learn <br>
+- Seaborn<br>
+- Pandas<br>
+- Numpy <br>
+- Statsmodels <br>
 
 
 ### Data Serialization
